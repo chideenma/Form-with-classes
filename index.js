@@ -27,3 +27,8 @@ document.addEventListener("submit", function(e){
    const user = new Person(userFirstName,userLastName, userAddress, userAge);
    console.log(user)
 });
+
+
+//localStorage.setItem('name', 'ada');
+//localStorage.removeItem('');
+//console.log('localStorage')
