@@ -27,3 +27,12 @@ document.addEventListener("submit", function(e){
    const user = new Person(userFirstName,userLastName, userAddress, userAge);
    console.log(user)
 });
+
+// if(firstname, lastname, age && address){
+    //localStorage.setItem('firstName', 'lastName', 'age', 'address');
+
+//}
+// location.reload();
+
+//localStorage.removeItem('');
+//console.log('localStorage')
