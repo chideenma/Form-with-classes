@@ -28,7 +28,6 @@ form {
   }
 
  fieldset {
-    
      border: none;
      padding: 2px  0;
  }
@@ -39,7 +38,8 @@ form {
 }
 input {
     width: 50%;
-    min-height: 2rem;
+    height: 40px;
+    padding: 7px;
 }
 #btn {
     display: flex;
