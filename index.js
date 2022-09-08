@@ -28,7 +28,11 @@ document.addEventListener("submit", function(e){
    console.log(user)
 });
 
+// if(firstname, lastname, age && address){
+    //localStorage.setItem('firstName', 'lastName', 'age', 'address');
 
-//localStorage.setItem('name', 'ada');
+//}
+// location.reload();
+
 //localStorage.removeItem('');
 //console.log('localStorage')
